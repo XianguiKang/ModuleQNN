@@ -30,7 +30,7 @@ If you want to use a specific gpu, for example GPU 0
     python caffe_client.py forensics unique_client_identifier server_ip_addr -gpu 0
     ```
 
-The top CNN (ModuleQNN-A) for multi-purpose forensics and detection of processing history are stored in the `ModuleQNN-A` folder. 
+The top CNN (ModuleQNN-A) for multi-purpose forensics and detection of processing history are stored in the `ModuleQNN-A_CNN` folder. 
 
 ## citation
 
