@@ -3,20 +3,7 @@ ModuleQNN Code Description
 ========
 ModuleQNN is a codebase used for automatically designing convolutional neural network architectures outlined in the paper: 
 
-Y. Chen, Z. Wang, Z. J. Wang, X. Kang,“Automated Design of Neural Network 
-Architectures with Reinforcement Learning for Detection of Global Manipulations”, 
-IEEE Journal of Selected Topics in Signal Processing, vol. 20, no. 5, 
-pp. 997-1011, Aug. 2020. 
-
-
-If our code or paper helps your research or project, please cite us using:
-@article{chen2020automated,
-  title={Automated Design of Neural Network Architectures with Reinforcement Learning for Detection of Global Manipulations},
-  author={Chen, Yifang and Wang, Zheng and Wang, Z Jane and Kang, Xiangui},
-  journal={IEEE Journal of Selected Topics in Signal Processing},
-  year={2020},
-  publisher={IEEE}
-}
+Y. Chen, Z. Wang, Z. J. Wang, X. Kang,“Automated Design of Neural Network Architectures with Reinforcement Learning for Detection of Global Manipulations”, IEEE Journal of Selected Topics in Signal Processing, vol. 20, no. 5, pp. 997-1011, Aug. 2020. 
 
 ## Example 
 
@@ -44,3 +31,14 @@ If you want to use a specific gpu, for example GPU 0
     ```
 
 The top CNN (ModuleQNN-A) for multi-purpose forensics and detection of processing history are stored in the `ModuleQNN-A` folder. 
+
+## citation
+
+If our code or paper helps your research or project, please cite us using:
+@article{chen2020automated,
+  title={Automated Design of Neural Network Architectures with Reinforcement Learning for Detection of Global Manipulations},
+  author={Chen, Yifang and Wang, Zheng and Wang, Z Jane and Kang, Xiangui},
+  journal={IEEE Journal of Selected Topics in Signal Processing},
+  year={2020},
+  publisher={IEEE}
+}
