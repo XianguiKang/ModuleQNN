@@ -13,7 +13,7 @@ can be set as needed.
 Experiment configurations are stored in the `models` folder. Each experiment contains a `hyper_parameters.py` file that contains 
 optimization hyperparameters, data paths, etc., and a `state_space_parameters.py` file that contains state space specifications.
 
-Program implementation process:
+Program implementation:
 1. Create database and the corresponding txt files on server you plan to use for training 
  In this example, the database and txt files are stored in the `forensic_data` folder.
 2. set `TRAIN_FILE`,`VAL_FILE`,`CAFFE_ROOT`, `CHECKPOINT_DIR` 
