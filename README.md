@@ -35,4 +35,5 @@ The top CNN (ModuleQNN-A) for multi-purpose forensics and detection of processin
 ## Citation
 
 If our code or paper helps your research or project, please cite us:
+
 Y. Chen, Z. Wang, Z. J. Wang, X. Kang,“Automated Design of Neural Network Architectures with Reinforcement Learning for Detection of Global Manipulations”, IEEE Journal of Selected Topics in Signal Processing, vol. 20, no. 5, pp. 997-1011, Aug. 2020. 
